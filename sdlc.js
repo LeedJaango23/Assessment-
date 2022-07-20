@@ -12,6 +12,15 @@
 // Testing & Integration
 // Planning
 
+//THE FOLLOWING STEPS OF THE SOFTWARE DEVELOPMENT LIFECYCLE IN THE CORRECT ORDER!
+
+//Planning 
+//Analysis of Requirements
+//Design
+// Implementation
+//Testing & Integration
+//Maintain
+
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,3 +28,7 @@
     The first one is done for you. 
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+const AnalysisOfRequirement = "This is the second step where we determine what the application is supposed to do and its requirements";
+const Design ="This is the fourth step where we configuring the software for certain conditions of use, as well as training customers to work with the product";
+const Implementation = "where a type of software testing in which the different units, modules or components of a software application are tested as a combined entity";
+const Maintain = "maintenance of software that can include software upgrades, repairs, and fixes of the software if it breaks";
